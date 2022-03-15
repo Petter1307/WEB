@@ -42,3 +42,36 @@ th {
   vertical-align: middle;
   text-align: left;
 }
+tr:nth-child(odd) {
+  background-color: gray;
+}
+footer {
+  padding: 5px;
+}
+header nav {
+  padding: 10px;
+  margin: 8px;
+}
+nav li a:hover {
+  background-color: #cefe9a;
+  color: black;
+}
+nav ul li {
+  display: inline;
+}
+footer {
+  text-align: right;
+  padding-right: 30px;
+}
+
+nav ul li a {
+  padding: 20px;
+  font-size: 20px;
+}
+
+article p,
+article h2,
+aside h2,
+aside p {
+  padding: 15px;
+}
