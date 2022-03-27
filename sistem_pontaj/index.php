@@ -9,17 +9,17 @@ session_start();
   </head>
   <body>
     <div class="signup_wrapper">
-      <form action="singup.inc.php" method="post">
+      <form action="includes/singup.inc.php" method="post">
           <input type="text" name="uid" placeholder="Username"><br>
           <input type="text" name="email" placeholder="Email"><br>
           <input type="text" name="first_name" placeholder="Prenume"><br>
-          <input type="text" name="last_name" placeholder="Nume"><br>
+          <input type="text" name="last_name" placeholder="Name"><br>
           <input type="password" name="pwd" placeholder="Parola"><br>
           <input type="password" name="pwdRepeat" placeholder="Repeta parola"><br>
-          <input type="radio" name="user_type" value="Student" id = "student" checked>
+          <!-- <input type="radio" name="user_type" value="Student" id = "student" checked>
           <label for="student">Student</label><br>
           <input type="radio" id ="profesor" name="user_type" value="Profesor">
-          <label for="profesor">Profesor</label><br>
+          <label for="profesor">Profesor</label><br> -->
 
           <br>
           <button type="submit" name="submit">Sing Up</button>
