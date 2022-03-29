@@ -2,4 +2,15 @@ metode folosite pentru layout si metode de java script.
 
 4 metode de flosit pentru layout: grid, flex, float, position.
 
-                                                                                                        
+flex decide comportamentul copiilor unui element.
+
+//TODO Research about justify content, align items and better layout shit. THis is kinda hard ma men, give it more than 5 hours. Learn css, it tricky af.  
+
+//TODO Read more shit from here:  https://web.dev/learn/css/
+//TODO Read some more shit from here: https://web.dev/learn/
+//TODO Read some some more shit from here: http://www.barelyfitz.com/screencast/html-training/css/positioning/
+
+
+flex este unidimensional.            
+
+grid este bidimensional. 
