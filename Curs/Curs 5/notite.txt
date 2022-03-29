@@ -1,0 +1,5 @@
+metode folosite pentru layout si metode de java script.
+
+4 metode de flosit pentru layout: grid, flex, float, position.
+
+                                                                                                        
