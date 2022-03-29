@@ -1,0 +1,14 @@
+#wrapper{
+    width: 85%;
+    margin: 0px auto;
+}
+#menu_wrapper{
+    vertical-align: middle;
+}
+#menu li{
+    display: inline;
+}
+#header_wrapper
+{
+    vertical-align: middle;
+}
