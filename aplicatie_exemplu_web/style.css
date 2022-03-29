@@ -2,13 +2,15 @@
     width: 85%;
     margin: 0px auto;
 }
-#menu_wrapper{
+#header_wrapper{
     vertical-align: middle;
+    justify-content: flex-start;
+}
+#menu{
+    display: flex;
+    justify-content: center;
+    
 }
 #menu li{
-    display: inline;
-}
-#header_wrapper
-{
-    vertical-align: middle;
+    text-decoration: none;
 }
