@@ -46,6 +46,3 @@ partea de contact include nume, email, regarding, mesaj, button de trimitere. in
 //TODO learn about hero element in css/html.
 
 !1. De luat structuri html din care am lucrat pana acuma. 
-
-
-this is an other try, wtf is this. Should this work ? 
