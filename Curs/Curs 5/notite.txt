@@ -14,3 +14,12 @@ flex decide comportamentul copiilor unui element.
 flex este unidimensional.            
 
 grid este bidimensional. 
+
+em si rem is cele mai des folosite. Sunt folosite pentru text;
+
+vm poate fi folosit pentru container cat si pentru containere
+vm -> viewport width, 1% din latimea spatiului vizibil
+vh -> viewport height, 1% din inaltimea spatiului vizibil.
+
+sa folosit height : 75 vh la hero section. 
+
