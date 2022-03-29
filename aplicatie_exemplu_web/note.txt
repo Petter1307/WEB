@@ -1,1 +1,50 @@
 tips and tricks xdd
+
+Icons: imagini schematice,  recomandare defolosit: Flaticon.com, free of charge, vector icons.
+dummny text : lorem ipsum, lipsum.
+
+google fonts/font awesome (also icons)
+
+Sectiune standard:
+
+<body>
+
+<header> .. </header>
+
+<secitons>...... </secitons> -> putem sa ii scrie id sau clasa hero
+<secitons>...... </secitons>
+<secitons>...... </secitons>
+<footer>...... </footer>
+
+
+Sectiune recomandata:
+<body>
+<div id = "wrapper">
+
+<header> contine o iconita, si un nav cu un ul si 3 li uri. </header>
+
+<secitons>...... </secitons>
+<secitons>...... </secitons>
+<secitons>...... </secitons>
+<footer>...... </footer>
+</div>
+
+in css: #wrapper{
+    width: 80%; (de la 80 pana la 95 recomandata);
+    margin: 0px auto; (sus jos 0, stanga dreapta auto)  // In cazul nostru stanga si dreapta o sa ocupe 20 %, cate 10 % in fiecare parte. 
+}
+
+termenul hero: dam un google si aflam ce cacat ii si asta
+
+in seciunea servicii avem 3 coloane. se poate de folosit un article, cu header si inconite diferite pentru serviciile folosite.
+
+sectiunea urmatoare 4 coloane, la fel article, cu atribut flex. // se poate de discutat implementarea deciziilor pe care le luam.
+
+partea de contact include nume, email, regarding, mesaj, button de trimitere. inforatii de contact: adresa de email, social media, nr de telefon. 
+
+//TODO Get a phone number specially for work.
+//TODO learn about hero element in css/html.
+
+!1. De luat structuri html din care am lucrat pana acuma. 
+
+
