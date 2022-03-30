@@ -21,8 +21,19 @@ nav ul li a
 .hero{
     display: flex;
     flex-flow: row nowrap;
+    justify-content: space-evenly;
 }
-#hero_text{
-    justify-content: center;
-    align-items: center;
+._h2{
+    text-align: center;
+}
+.servicii{
+    display: flex;
+    flex-direction: row;
+}
+.servicii_table{
+    padding: 10px;
+    margin: 10px;
+    background-color: lightblue;
+    border: 3px line black;
+    border-radius: 15px;
 }
