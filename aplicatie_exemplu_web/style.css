@@ -29,8 +29,23 @@ nav ul li a
 .servicii{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 .servicii_table{
+    flex:1;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightblue;
+    border: 3px line black;
+    border-radius: 15px;
+}
+.portofoilu{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.portofoilu_element{
+    flex: 1;
     padding: 10px;
     margin: 10px;
     background-color: lightblue;
