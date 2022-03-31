@@ -52,3 +52,17 @@ nav ul li a
     border: 3px line black;
     border-radius: 15px;
 }
+
+.contact{
+    justify-content: flex-start;
+    display: flex;
+    flex-flow: row wrap;
+}
+.contact_info{
+    flex:2;
+}
+.contact_form{
+    display: flex;
+    flex-direction: column;
+    flex:1;
+}
